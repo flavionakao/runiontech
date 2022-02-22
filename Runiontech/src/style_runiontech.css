@@ -1,0 +1,48 @@
+.card-largura {
+    max-width: 25rem;
+}
+
+.imagem-runion {
+    height: 50px;
+}
+
+.imagem-carrossel{
+    object-fit: cover;
+    object-position: 0 100%;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Lexend Deca', cursive;
+    font-weight: bolder;
+}
+
+.cor-especial {
+    color: rgb(0, 139, 139)!important;
+}
+
+.botao-cor-especial {
+    background-color: rgb(0, 139, 139);
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: rgb(7, 7, 7);
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    /* object-position: 0 80%; */
+    height: 200px;
+ }
+
+.cor-display-carousel {
+    color: black;
+}
+
+.centralizar {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em
+}
+
